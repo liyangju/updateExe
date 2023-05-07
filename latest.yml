@@ -1,8 +1,0 @@
-version: 2.0.0
-files:
-  - url: electron-app-2.0.0-setup.exe
-    sha512: 4uR0ZvrlqVUrVEYL5EysDBCd5DR0ev4hqTGBAl1jynMMMB+FVtXpj31NaOjxGSYXY0SvZgRiiXYcEWziXRWW0Q==
-    size: 77066934
-path: electron-app-2.0.0-setup.exe
-sha512: 4uR0ZvrlqVUrVEYL5EysDBCd5DR0ev4hqTGBAl1jynMMMB+FVtXpj31NaOjxGSYXY0SvZgRiiXYcEWziXRWW0Q==
-releaseDate: '2023-05-07T07:13:38.110Z'
